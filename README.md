@@ -1,4 +1,4 @@
-{::comment}
+<!---
 
 ### About Me:
 
@@ -43,4 +43,4 @@ Currently, I'm delving into the realms of decentralized finance (DeFi) and web3,
 
 <div>
       
-{:/comment}
+--->
